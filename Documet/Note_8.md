@@ -3,13 +3,9 @@ I.  **Triển khai**
 <!-- -->
 
 1.  **Install**
+Trong quá trình tìm hiểu thay vì phải cài từng phần riêng lẻ cho wazuh ta có thể dùng 1 dòng lệnh để cài tất cả các gói tin, các thành phần để có thể monitoring bằng wazuh
+Ở trang install wazuh ta chọn Quickstart
 
-> Trong quá trình tìm hiểu thay vì phải cài từng phần riêng lẻ cho wazuh
-> ta có thể dùng 1 dòng lệnh để cài tất cả các gói tin, các thành phần
-> để có thể monitoring bằng wazuh
->
-> Ở trang install wazuh ta chọn Quickstart
->
 > ![](media/image1.png){width="6.5in" height="3.65625in"}
 >
 > Hình 1: chọn Quickstart
